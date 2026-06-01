@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
   host: 'NexalithSMP.aternos.me',
-  port: 25565,
+  port: 15621,
   username: 'BotName'
 })
 
